@@ -10,7 +10,7 @@
 
 대학교 때 과제, 프로젝트 등을 진행하며 '협업 코딩'을 할 때 이런 경험이 있을 것이다.
 
-<I>" 여기까지 코딩하고 메일로 보내면 내가 다시 수정할게 "</I>   
+> <I>" 여기까지 코딩하고 메일로 보내면 내가 다시 수정할게 "</I>   
 <I>" source_진짜진짜최종.py 열어보면 돼 "</I>
 
 학부에서 수행하는 1~2명 규모의 과제, 프로젝트는 최종 결과물만 제출하면 종료되고
@@ -47,8 +47,8 @@
 git과 svn 방식의 차이 (그림 출처: https://dzzienki.tistory.com/46)
 </p>
 
-자세한 차이는 아래 블로그에 잘 정리되어 있으니 한 번 읽어보면 좋다.   
-[GIT 과 SVN의 개념 및 장단점 형상관리, 버전관리](https://dzzienki.tistory.com/46)
+자세한 차이는 아래 블로그에 잘 정리되어 있으니 한 번 읽어보면 좋다.
+> [GIT 과 SVN의 개념 및 장단점 형상관리, 버전관리](https://dzzienki.tistory.com/46)
 
 <br>
 
@@ -79,7 +79,7 @@ git의 transaction (그림 출처: http://pismute.github.io/whygitisbetter/)
 
 
 이를 한 줄로 나타내면 다음과 같다.
-- _"작업한 내용을 **스테이징**에 올려서 **로컬 저장소**에 **커밋**하고, 이를 **푸시**해서 **원격 저장소**로 보낸다."_
+> - _"작업한 내용을 **스테이징**에 올려서 **로컬 저장소**에 **커밋**하고, 이를 **푸시**해서 **원격 저장소**로 보낸다."_
 
 
 <br>
@@ -133,7 +133,7 @@ git의 transaction (그림 출처: http://pismute.github.io/whygitisbetter/)
 - SVN에서의 커밋은 변경 사항을 원격저장소로 저장하는 과정을 의미한다.
 
 - GIT에서의 커밋은 로컬저장소로 변경 사항을 반영하는 것을 의미하며, 원격저장소로 변경사항을 보내는 과정은 푸시다.
-  - _**'SVN의 커밋 = GIT의 커밋 + GIT의 푸시'** 라고 할 수 있다._
+>   - _**'SVN의 커밋 = GIT의 커밋 + GIT의 푸시'** 라고 할 수 있다._
 
 ### 풀 (Pull)
 
@@ -162,14 +162,14 @@ git의 branch (그림 출처: https://gmlwjd9405.github.io/2018/05/11/types-of-g
 
 
 #### 브랜치의 종류 5가지
-- Master Branch : 제품으로 출시될 수 있는 브랜치
-- Develop Branch : 다음 출시 버전을 개발하는 브랜치
-- Feature Branch : 기능을 개발하는 브랜치
-- Release Branch : 이번 출시 버전을 준비하는 브랜치
-- Hotfix Branch : 출시 버전에서 발생한 버그를 수정하는 브랜치
+> - Master Branch : 제품으로 출시될 수 있는 브랜치
+>- Develop Branch : 다음 출시 버전을 개발하는 브랜치
+>- Feature Branch : 기능을 개발하는 브랜치
+>- Release Branch : 이번 출시 버전을 준비하는 브랜치
+>- Hotfix Branch : 출시 버전에서 발생한 버그를 수정하는 브랜치
 
-각 브랜치 별 차이는 아래 블로그에 잘 정리되어 있으니 한 번 읽어보면 좋다.   
-[[GitHub] Git 브랜치의 종류 및 사용법 (5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
+각 브랜치 별 차이는 아래 블로그에 잘 정리되어 있으니 한 번 읽어보면 좋다.
+> [[GitHub] Git 브랜치의 종류 및 사용법 (5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
 
 
 
