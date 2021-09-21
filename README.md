@@ -10,6 +10,7 @@
 ## Django
 * [django란](https://github.com/francisBae/TIL/blob/master/django/django란.md)
 * [django구조](https://github.com/francisBae/TIL/blob/master/django/django구조.md)
+* [django 개발환경 구축하기](https://github.com/francisBae/TIL/blob/master/django/django_개발환경_구축하기.md)
 
 ## Side Projects
 * [네이버뉴스 메일 발송 자동화](https://github.com/francisBae/proj_webcrawler)
