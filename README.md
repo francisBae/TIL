@@ -20,6 +20,7 @@
 
 ## Web Frontend
 * [SSR vs CSR](https://github.com/francisBae/TIL/blob/master/web-frontend/ssr_vs_csr.md)
+* [SPA vs MPA](https://github.com/francisBae/TIL/blob/master/web-frontend/spa_vs_mpa.md)
 
 ## Side Projects
 * [네이버뉴스 메일 발송 자동화](https://github.com/francisBae/proj_webcrawler)
