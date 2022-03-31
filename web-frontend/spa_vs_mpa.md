@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-<img src="https://vaporvm.com/wp-content/uploads/2021/12/single-page-application-vs-multiple-page-application476514065.jpg" width="350px">
+<img src="https://images.velog.io/images/qowhdgn/post/1c5c0acf-b7ff-4821-b212-f528238da3e6/image.png" width="350px">
 </p>
 <br>
 
