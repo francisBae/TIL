@@ -26,6 +26,7 @@
 
 - [SSR vs CSR](https://github.com/francisBae/TIL/blob/master/web-frontend/ssr_vs_csr.md)
 - [SPA vs MPA](https://github.com/francisBae/TIL/blob/master/web-frontend/spa_vs_mpa.md)
+- [Lazy Loading이란](https://github.com/francisBae/TIL/blob/master/web-frontend/lazyloading.md)
 
 ## Web Backend
 
