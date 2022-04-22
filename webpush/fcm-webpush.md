@@ -16,7 +16,7 @@ Firebase 클라우드 메시징(FCM)은 무료로 메시지를 안정적으로 �
 
 ### 제약사항
 
-- 웹 프로젝트의 경우 FCM이 **IE와 Safari에서는 동작하지 않습니다다.**
+- 웹 프로젝트의 경우 FCM이 **IE와 Safari에서는 동작하지 않습니다.**
   iOS 앱을 따로 만들면 상관 없지만, 모바일 웹만 개발하는 경우 이 점을 유의해야 합니다.
 
 - [Firebase 공식 문서](https://firebase.google.com/support/troubleshooter/fcm/delivery/diagnose/web)에 의하면 FCM JS SDK는 [Push API-supported browsers](https://caniuse.com/push-api) 환경에서만 동작합니다.
@@ -300,7 +300,6 @@ self.addEventListener('notificationclick', (event) => {
 > firebase-messaging-sw.js
 
 ```javascript
-//Onesignal dev 테스트 위한 주석처리
 importScripts("https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js");
 importScripts(
   "https://www.gstatic.com/firebasejs/8.10.0/firebase-messaging.js"
