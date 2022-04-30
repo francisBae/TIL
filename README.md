@@ -22,6 +22,16 @@
 
 - [API](https://github.com/francisBae/TIL/blob/master/network/API.md)
 
+## DevOps
+
+- [DevOps 이론](https://github.com/francisBae/TIL/blob/master/devops/devops_이론.md)
+
+### IaC
+
+#### Terraform
+
+- [Terraform 기본](https://github.com/francisBae/TIL/blob/master/devops/iac/terraform/terraform_기본.md)
+
 ## Web Frontend
 
 - [SSR vs CSR](https://github.com/francisBae/TIL/blob/master/web-frontend/ssr_vs_csr.md)
